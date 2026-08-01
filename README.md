@@ -42,7 +42,7 @@
 ### Backend & Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,docker,aws,git,vscode,cursor" />
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,aws,git,vscode,cursor" />
 </p>
 
 ---
